@@ -1,0 +1,14 @@
+{
+    "createTicket": {
+      "schema": {
+        "method": "POST",
+        "host": "broking-phonepe.freshdesk.com",
+        "path": "/api/v2/tickets",
+        "headers": {
+          "Authorization": "Bearer cEtNR1lrUmJHUDZScW1rMWlGdGI=",
+          "Content-Type": "application/json"
+        }
+      }
+    }
+  }
+  

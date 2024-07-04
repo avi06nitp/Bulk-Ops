@@ -1,0 +1,24 @@
+{
+  "platform-version": "2.3",
+  "product": {
+    "freshdesk": {
+      "location": {
+        "full_page_app": {
+          "url": "index.html",
+          "icon": "icon.svg"
+        }
+      },
+      "functions": {
+        "serverMethod": {"timeout": 10}
+        
+      },
+      "requests": {
+        "createTicket": {}
+      }
+    }
+  },
+  "engines": {
+    "node": "18.20.3",
+    "fdk": "9.1.1"
+  }
+}
