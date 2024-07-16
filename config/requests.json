@@ -5,7 +5,7 @@
         "host": "broking-phonepe.freshdesk.com",
         "path": "/api/v2/tickets",
         "headers": {
-          "Authorization": "Bearer cEtNR1lrUmJHUDZScW1rMWlGdGI=",
+          "Authorization": "API_KEY",
           "Content-Type": "application/json"
         }
       }
